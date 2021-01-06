@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/code_file_Ruby/166_A?C.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_file_Javascript/Therefore.js" beforeDir="false" afterPath="$PROJECT_DIR$/code_file_Javascript/168_Therefore.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_file_Ruby/Therefore.rb" beforeDir="false" afterPath="$PROJECT_DIR$/code_file_Ruby/168_Therefore.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_file_Python/Therefore.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_file_Python/168_Therefore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_file_Ruby/Resistration.rb" beforeDir="false" afterPath="$PROJECT_DIR$/code_file_Ruby/167_Resistration.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,17 +17,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code_file_Javascript/175_Rainy_Season.js">
+        <entry file="file://$PROJECT_DIR$/code_file_Typescript/174_Air_Conditioner.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code_file_Typescript/174_Air_Conditioner.ts">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -38,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code_file_Javascript/168_Therefore.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+            <state relative-caret-position="315">
+              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -84,19 +80,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code_file_Javascript/176_Takoyaki.js">
+        <entry file="file://$PROJECT_DIR$/code_file_Typescript/181_Heavy_Rotation.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+            <state relative-caret-position="105">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code_file_Typescript/181_Heavy_Rotation.ts">
+        <entry file="file://$PROJECT_DIR$/code_file_Typescript/Expired?.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="210">
+              <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code_file_Ruby/166_A?C.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -138,6 +143,7 @@
         <option value="$PROJECT_DIR$/code_file_Ruby/171_alphaet.rb" />
         <option value="$PROJECT_DIR$/code_file_Ruby/169_Multiplication.rb" />
         <option value="$PROJECT_DIR$/code_file_Javascript/168_Therefore.js" />
+        <option value="$PROJECT_DIR$/code_file_Ruby/166_A?C.rb" />
       </list>
     </option>
   </component>
@@ -175,7 +181,7 @@
             <path>
               <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
               <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
-              <item name="code_file_Typescript" type="462c0819:PsiDirectoryNode" />
+              <item name="code_file_Ruby" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -234,17 +240,18 @@
       <updated>1609231033591</updated>
       <workItem from="1609231083496" duration="41000" />
       <workItem from="1609231130536" duration="527000" />
-      <workItem from="1609408062018" duration="7661000" />
+      <workItem from="1609408062018" duration="8700000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7661000" />
+    <option name="totallyTimeSpent" value="8700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3190272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3190272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -257,7 +264,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31082803" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31082803" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -368,9 +375,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code_file_Typescript/Expired?.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/code_file_Ruby/185_A.B.C_Preparation.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -449,13 +453,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code_file_Typescript/181_Heavy_Rotation.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code_file_Javascript/176_Takoyaki.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -469,9 +466,6 @@
           <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_file_Typescript/174_Air_Conditioner.ts">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/code_file_Ruby/174_Air_conditioner.rb">
       <provider selected="true" editor-type-id="text-editor">
@@ -510,8 +504,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/code_file_Javascript/168_Therefore.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        <state relative-caret-position="315">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_file_Typescript/174_Air_Conditioner.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_file_Typescript/181_Heavy_Rotation.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_file_Typescript/Expired?.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_file_Ruby/166_A?C.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
