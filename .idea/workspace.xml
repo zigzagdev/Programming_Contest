@@ -94,7 +94,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/code_file_Ruby/144.9×9.rb">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -156,6 +160,7 @@
         <option value="$PROJECT_DIR$/code_file_Ruby/147.BlackJack.rb" />
         <option value="$PROJECT_DIR$/code_file_Ruby/146.Can't.Wait.for.Holiday.rb" />
         <option value="$PROJECT_DIR$/code_file_Ruby/145.circle.rb" />
+        <option value="$PROJECT_DIR$/code_file_Ruby/144.9×9.rb" />
       </list>
     </option>
   </component>
@@ -249,16 +254,15 @@
       <workItem from="1609231130536" duration="527000" />
       <workItem from="1609408062018" duration="10543000" />
       <workItem from="1610013607003" duration="4799000" />
-      <workItem from="1610460521252" duration="606000" />
+      <workItem from="1610460521252" duration="1011000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15948000" />
+    <option name="totallyTimeSpent" value="16353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32761088" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -652,7 +656,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/code_file_Ruby/144.9×9.rb">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
