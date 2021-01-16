@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code_file_Ruby/134.Dodecagon.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_file_Ruby/133.TorT.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code_file_Ruby/144.9×9.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code_file_Ruby/143.Curtain.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,11 +78,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code_file_Ruby/134.Dodecagon.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code_file_Ruby/133.TorT.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -111,7 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/code_file_Javascript/Red_or_not.js" />
         <option value="$PROJECT_DIR$/code_file_Ruby/Red_or_not.rb" />
         <option value="$PROJECT_DIR$/code_file_Ruby/Transfer.rb" />
         <option value="$PROJECT_DIR$/code_file_Ruby/Happy_birthday!.rb" />
@@ -162,6 +162,7 @@
         <option value="$PROJECT_DIR$/code_file_Ruby/137.A-+-x.rb" />
         <option value="$PROJECT_DIR$/code_file_Ruby/135.Harmony.rb" />
         <option value="$PROJECT_DIR$/code_file_Ruby/134.Dodecagon.rb" />
+        <option value="$PROJECT_DIR$/code_file_Ruby/133.TorT.rb" />
       </list>
     </option>
   </component>
@@ -184,6 +185,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,7 +202,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -223,6 +224,9 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/Msts-O/todo.git" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -256,18 +260,19 @@
       <workItem from="1609408062018" duration="10543000" />
       <workItem from="1610013607003" duration="4799000" />
       <workItem from="1610460521252" duration="1011000" />
-      <workItem from="1610595218101" duration="3394000" />
+      <workItem from="1610595218101" duration="4052000" />
+      <workItem from="1610792412513" duration="292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19747000" />
+    <option name="totallyTimeSpent" value="20697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3319027" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33619457" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -280,7 +285,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31082803" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31082803" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -325,20 +330,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/code_file_Ruby/179_Plural_Form.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_file_Ruby/178_Not.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code_file_Ruby/177_Don't_be_late.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -622,6 +613,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="https://github.com/Msts-O/todo.git">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/code_file_Ruby/143.Curtain.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -674,6 +668,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_file_Ruby/133.TorT.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
