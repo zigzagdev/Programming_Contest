@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/119.Still.TBD.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/119.ABC/119.Still.TBD.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/120.Favorite.Sound.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/120.ABC/120.Favorite.Sound.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/121.White.Cells.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/121.ABC/121.White.Cells.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/122.Double.Helix.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/122.ABC/122.Double.Helix.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/123.Five.Anennas.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/123.ABC/123.Five.Anennas.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/124.Buttons.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/124.ABC/124.Buttons.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/125.Biscuit.Generator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/125.ABC/125.Biscuit.Generator.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/126.Changing.a.Character.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/126.ABC/126.Changing.a.Character.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/127.Ferris.Wheel.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/127.ABC/127.Ferris.Wheel.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/128.ApplePie.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/128.ABC/128.ApplePie.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/129.Airplane.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/129.ABC/129.Airplane.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/130.Rounding.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/130.ABC/130.Rounding.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/131.Security.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/131.ABC/131.Security.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/132.Fifty.Fifty.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/132.ABC/132.Fifty.Fifty.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/133.TorT.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/133.ABC/133.TorT.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/134.Dodecagon.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/134.ABC/134.Dodecagon.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/135.Harmony.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/135.ABC/135.Harmony.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/136.Transfer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/136.ABC/136.Transfer.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/137.A-+-x.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/137.ABC/137.A-+-x.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/138.Red.or_Not.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/138.ABC/138.Red.or_Not.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/140.Password.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/140.ABC/140.Password.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/141.Weather.Prediction.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/141.ABC/141.Weather.Prediction.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/142.Odds.of.Oddness.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/142.ABC/142.Odds.of.Oddness.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/143.Curtain.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/143.ABC/143.Curtain.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/144.9×9.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/144.ABC/144.9×9.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/145.circle.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/145.ABC/145.circle.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/146.Can't.Wait.for.Holiday.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/146.ABC/146.Can't.Wait.for.Holiday.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/147.BlackJack.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/147.ABC/147.BlackJack.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/148.Round.One.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/148.ABC/148.Round.One.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/149.String.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/149.ABC/149.String.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/150_500yen.coins.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/150.ABC/150_500yen.coins.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/151.NextAlphabet.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/150.ABC/151.NextAlphabet.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,52 +14,52 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/142.ABC/142.Odds.of.Oddness.rb">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/176.ABC/176_Takoyaki.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/143.ABC/143.Curtain.rb">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/177.ABC/177_Don't_be_late.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/144.ABC/144.9×9.rb">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/178.ABC/178_Not.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/145.ABC/145.circle.rb">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/179.ABC/179_Plural_Form.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/146.ABC/146.Can't.Wait.for.Holiday.rb">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/180.ABC/180_Box.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/147.ABC/147.BlackJack.rb">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/181.ABC/181_Heavy_Rotation.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/148.ABC/148.Round.One.rb">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/183.ABC/183_ReLU01.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/149.ABC/149.String.rb">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/184.ABC/184_Determinant.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/150.ABC/150_500yen.coins.rb">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/185.ABC/185_A.B.C_Preparation.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/150.ABC/151.NextAlphabet.rb">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/115.ABC/115.A.Christmas.Eve.Eve.Eve.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -244,11 +213,11 @@
       <recent name="https://github.com/Msts-O/todo.git" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Atcorder/code_file_Ruby/150.ABC" />
-      <recent name="$PROJECT_DIR$/Atcorder/code_file_Ruby/149.ABC" />
-      <recent name="$PROJECT_DIR$/Atcorder/code_file_Ruby/148.ABC" />
-      <recent name="$PROJECT_DIR$/Atcorder/code_file_Ruby/147.ABC" />
-      <recent name="$PROJECT_DIR$/Atcorder/code_file_Ruby/146.ABC" />
+      <recent name="$PROJECT_DIR$/Atcorder/code_file_Ruby/185.ABC" />
+      <recent name="$PROJECT_DIR$/Atcorder/code_file_Ruby/184.ABC" />
+      <recent name="$PROJECT_DIR$/Atcorder/code_file_Ruby/183.ABC" />
+      <recent name="$PROJECT_DIR$/Atcorder/code_file_Ruby/181.ABC" />
+      <recent name="$PROJECT_DIR$/Atcorder/code_file_Ruby/180.ABC" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -285,12 +254,21 @@
       <workItem from="1610873437596" duration="2903000" />
       <workItem from="1611045322756" duration="2266000" />
       <workItem from="1611129833396" duration="175000" />
-      <workItem from="1611130241404" duration="5392000" />
+      <workItem from="1611130241404" duration="5908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32878000" />
+    <option name="totallyTimeSpent" value="33394000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
@@ -353,118 +331,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/177_Don't_be_late.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/178_Not.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/179_Plural_Form.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/180_Box.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/181_Heavy_Rotation.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/183_ReLU01.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/184_Determinant.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/185_A.B.C_Preparation.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/Expired?.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/Hands00.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/Happy_birthday!.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/sample.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/3_integer_numbers.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/189.ABC/189.A.Slot.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/189.ABC/189.B.Alcoholic.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/116.ABC/116.A.Right.Triangle.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/118.ABC/118.A.quiz.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/117.ABC/117.EntranceExamination.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/115.ABC/115.A.Christmas.Eve.Eve.Eve.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/119.ABC/119.Still.TBD.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/120.ABC/120.Favorite.Sound.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/121.ABC/121.White.Cells.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/122.ABC/122.Double.Helix.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/123.ABC/123.Five.Anennas.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/124.ABC/124.Buttons.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/125.ABC/125.Biscuit.Generator.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/126.ABC/126.Changing.a.Character.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/127.ABC/127.Ferris.Wheel.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/128.ABC/128.ApplePie.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/129.ABC/129.Airplane.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/130.ABC/130.Rounding.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/131.ABC/131.Security.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/132.ABC/132.Fifty.Fifty.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -519,7 +385,103 @@
     <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/150.ABC/150_500yen.coins.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/150.ABC/151.NextAlphabet.rb">
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/151.ABC/151.NextAlphabet.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/153.ABC/153.ServalVsMonster.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/154.ABC/154_Remaining.Balls.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/155.ABC/155.Poor.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/156.ABC/156_Biginner.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/157.ABC/157_Duplex.Printing.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/158.ABC/158.StationAndBus.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/159.ABC/159_The Number of Even Pairs.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/160.ABC/160_Coffee.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/161.ABC/161_ABC.Swap.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/162.ABC/162_Lucky.7.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/163.ABC/163_Circle.Pond.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/165.ABC/165_We_love_Golf.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/164.ABC/164_Sheep_and_Wolves.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/166.ABC/166_A?C.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/167.ABC/167_Resistration.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/168.ABC/168_Therefore.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/169.ABC/169_Multiplication.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/171.ABC/171_alphaet.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/172.ABC/172_calc.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/173.ABC/173_Payment.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/174.ABC/174_Air_conditioner.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/175.ABC/175_Rainy_season.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/176.ABC/176_Takoyaki.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/177.ABC/177_Don't_be_late.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/178.ABC/178_Not.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/179.ABC/179_Plural_Form.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/180.ABC/180_Box.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/181.ABC/181_Heavy_Rotation.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/183.ABC/183_ReLU01.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/184.ABC/184_Determinant.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/185.ABC/185_A.B.C_Preparation.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/115.ABC/115.A.Christmas.Eve.Eve.Eve.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
