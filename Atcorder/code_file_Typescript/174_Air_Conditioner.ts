@@ -1,3 +1,4 @@
+
 function main(input) {
     const number = Number(input);
     if(number >= 30) console.log('Yes');
