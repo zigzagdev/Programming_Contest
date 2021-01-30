@@ -29,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/112.ABC/A.ProgrammingEducation.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -38,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/104.ABC/A.Rated.for.Me.rb">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/98.ABC/A.Add.Sub.Mul.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            <state relative-caret-position="30">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -113,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/code_file_Ruby/146.Can't.Wait.for.Holiday.rb" />
         <option value="$PROJECT_DIR$/code_file_Ruby/145.circle.rb" />
         <option value="$PROJECT_DIR$/code_file_Ruby/144.9×9.rb" />
         <option value="$PROJECT_DIR$/code_file_Ruby/143.Curtain.rb" />
@@ -164,6 +163,7 @@
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/102.ABC/A.Multipleof.2andN.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/101.ABC/A.Eating.Symbols.Easy.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/99.ABC/A.ABD.rb" />
+        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/98.ABC/A.Add.Sub.Mul.rb" />
       </list>
     </option>
   </component>
@@ -281,12 +281,12 @@
       <workItem from="1611478489132" duration="2984000" />
       <workItem from="1611574116543" duration="3001000" />
       <workItem from="1611804129605" duration="1527000" />
-      <workItem from="1611838180306" duration="1656000" />
+      <workItem from="1611838180306" duration="2153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42862000" />
+    <option name="totallyTimeSpent" value="43359000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,9 +358,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/154.ABC/154_Remaining.Balls.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/155.ABC/155.Poor.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -572,6 +569,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/98.ABC/A.Add.Sub.Mul.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
