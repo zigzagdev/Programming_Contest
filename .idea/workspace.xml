@@ -12,15 +12,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/104.ABC/A.Rated.for.Me.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/92.ABC/A.TravelingBudget.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -29,8 +20,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/91.ABC/A.TwoCoins.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/86.ABC/A,Product.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
@@ -117,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/code_file_Ruby/133.TorT.rb" />
         <option value="$PROJECT_DIR$/code_file_Ruby/132.Fifty.Fifty.rb" />
         <option value="$PROJECT_DIR$/code_file_Ruby/131.Security.rb" />
         <option value="$PROJECT_DIR$/code_file_Ruby/130.Rounding.rb" />
@@ -168,6 +167,7 @@
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/89.ABC/A.Grouping2.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/88.ABC/A.InfiniteCoins.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/87.ABC/BuyingSweets.rb" />
+        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/86.ABC/A,Product.rb" />
       </list>
     </option>
   </component>
@@ -202,6 +202,17 @@
               <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
               <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
               <item name="Atcorder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
+              <item name="Paiza" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
+              <item name="Paiza" type="462c0819:PsiDirectoryNode" />
+              <item name="Ruby" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -279,12 +290,12 @@
       <workItem from="1611478489132" duration="2984000" />
       <workItem from="1611574116543" duration="3001000" />
       <workItem from="1611804129605" duration="1527000" />
-      <workItem from="1611838180306" duration="5795000" />
+      <workItem from="1611838180306" duration="5928000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47001000" />
+    <option name="totallyTimeSpent" value="47134000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -356,9 +367,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/165.ABC/165_We_love_Golf.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/164.ABC/164_Sheep_and_Wolves.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -607,6 +615,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/91.ABC/A.TwoCoins.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/86.ABC/A,Product.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
