@@ -29,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/91.ABC/A.TwoCoins.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -56,11 +56,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/98.ABC/A.Add.Sub.Mul.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/87.ABC/BuyingSweets.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -92,15 +101,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/103.ABC/A.Task.Scheduling.Problem.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -117,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/code_file_Ruby/134.Dodecagon.rb" />
         <option value="$PROJECT_DIR$/code_file_Ruby/133.TorT.rb" />
         <option value="$PROJECT_DIR$/code_file_Ruby/132.Fifty.Fifty.rb" />
         <option value="$PROJECT_DIR$/code_file_Ruby/131.Security.rb" />
@@ -168,6 +167,7 @@
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/90.ABC/A.Diagonal String.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/89.ABC/A.Grouping2.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/88.ABC/A.InfiniteCoins.rb" />
+        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/87.ABC/BuyingSweets.rb" />
       </list>
     </option>
   </component>
@@ -202,19 +202,6 @@
               <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
               <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
               <item name="Atcorder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
-              <item name="Atcorder" type="462c0819:PsiDirectoryNode" />
-              <item name="code_file_Ruby" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
-              <item name="Atcorder" type="462c0819:PsiDirectoryNode" />
-              <item name="code_file_Ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="98.ABC" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,12 +279,12 @@
       <workItem from="1611478489132" duration="2984000" />
       <workItem from="1611574116543" duration="3001000" />
       <workItem from="1611804129605" duration="1527000" />
-      <workItem from="1611838180306" duration="5365000" />
+      <workItem from="1611838180306" duration="5795000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46571000" />
+    <option name="totallyTimeSpent" value="47001000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -310,7 +297,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21959943" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -370,9 +356,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/163.ABC/163_Circle.Pond.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/165.ABC/165_We_love_Golf.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -574,10 +557,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/91.ABC/A.TwoCoins.rb">
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/95.ABC/A.Something_on.It.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/99.ABC/A.ABD.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/98.ABC/A.Add.Sub.Mul.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/87.ABC/BuyingSweets.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/88.ABC/A.InfiniteCoins.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -595,31 +606,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/95.ABC/A.Something_on.It.rb">
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/91.ABC/A.TwoCoins.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/99.ABC/A.ABD.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/88.ABC/A.InfiniteCoins.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/98.ABC/A.Add.Sub.Mul.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="90">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
