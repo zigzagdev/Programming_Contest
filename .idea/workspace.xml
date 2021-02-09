@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Paiza/Ruby/D.112.FactoryProducting.rb" afterDir="false" />
-    </list>
+    <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +76,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.112.FactoryProducting.rb">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -115,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/125.Biscuit.Generator.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/124.Buttons.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/123.Five.Anennas.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/122.Double.Helix.rb" />
@@ -166,6 +167,7 @@
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/191.ABC/A.VanishingPitch.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/83.ABC/A.Libra.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/82.ABC/A.RoundUpTheMean.rb" />
+        <option value="$PROJECT_DIR$/Paiza/Ruby/D.112.FactoryProducting.rb" />
       </list>
     </option>
   </component>
@@ -204,13 +206,8 @@
             <path>
               <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
               <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
-              <item name="Paiza" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
-              <item name="Paiza" type="462c0819:PsiDirectoryNode" />
-              <item name="Ruby" type="462c0819:PsiDirectoryNode" />
+              <item name="Atcorder" type="462c0819:PsiDirectoryNode" />
+              <item name="code_file_Ruby" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -291,12 +288,12 @@
       <workItem from="1611838180306" duration="6149000" />
       <workItem from="1612323019596" duration="1107000" />
       <workItem from="1612428841633" duration="567000" />
-      <workItem from="1612532567514" duration="1881000" />
+      <workItem from="1612532567514" duration="2243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50910000" />
+    <option name="totallyTimeSpent" value="51272000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,7 +306,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22818312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -658,7 +654,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.112.FactoryProducting.rb">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
