@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/77.ABC/A,Rotation.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +76,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/79.ABC/A.GoodInteger.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -86,19 +86,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/95.ABC/A.Something_on.It.rb">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/78.ABC/A.HEX.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/96.ABC/A.Day_of.Takahashi.rb">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/77.ABC/A,Rotation.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -119,8 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/121.White.Cells.rb" />
-        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/120.Favorite.Sound.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/119.Still.TBD.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/118.A.quiz.rb" />
         <option value="$PROJECT_DIR$/Paiza/Ruby/D007.N_Array.rb" />
@@ -170,6 +168,8 @@
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/81.ABC/A.PlacingMarbles.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/80.ABC/A.Parking.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/79.ABC/A.GoodInteger.rb" />
+        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/78.ABC/A.HEX.rb" />
+        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/77.ABC/A,Rotation.rb" />
       </list>
     </option>
   </component>
@@ -210,6 +210,13 @@
               <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
               <item name="Atcorder" type="462c0819:PsiDirectoryNode" />
               <item name="code_file_Ruby" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
+              <item name="Atcorder" type="462c0819:PsiDirectoryNode" />
+              <item name="code_file_Ruby" type="462c0819:PsiDirectoryNode" />
+              <item name="77.ABC" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -290,12 +297,12 @@
       <workItem from="1611838180306" duration="6149000" />
       <workItem from="1612323019596" duration="1107000" />
       <workItem from="1612428841633" duration="567000" />
-      <workItem from="1612532567514" duration="3841000" />
+      <workItem from="1612532567514" duration="4291000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52870000" />
+    <option name="totallyTimeSpent" value="53320000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -308,6 +315,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22818312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -367,12 +375,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/179.ABC/179_Plural_Form.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/180.ABC/180_Box.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/181.ABC/181_Heavy_Rotation.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -671,6 +673,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/78.ABC/A.HEX.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/77.ABC/A,Rotation.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
