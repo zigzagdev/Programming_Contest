@@ -12,15 +12,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/83.ABC/A.Libra.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/82.ABC/A.RoundUpTheMean.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -92,11 +83,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/75.ABC/A.OneoutofThree.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.162.TheHeavyofRice.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -117,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Paiza/Ruby/D007.N_Array.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/117.EntranceExamination.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/116.Right.Triangle.rb" />
         <option value="$PROJECT_DIR$/Paiza/Ruby/D174.Nutrition.rb" />
@@ -168,6 +167,7 @@
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/77.ABC/A,Rotation.rb" />
         <option value="$PROJECT_DIR$/Paiza/Ruby/D.175.DecimalNumber.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/75.ABC/A.OneoutofThree.rb" />
+        <option value="$PROJECT_DIR$/Paiza/Ruby/D.162.TheHeavyofRice.rb" />
       </list>
     </option>
   </component>
@@ -294,12 +294,12 @@
       <workItem from="1612323019596" duration="1107000" />
       <workItem from="1612428841633" duration="567000" />
       <workItem from="1612532567514" duration="4739000" />
-      <workItem from="1613228144586" duration="615000" />
+      <workItem from="1613228144586" duration="1128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54383000" />
+    <option name="totallyTimeSpent" value="54896000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -313,7 +313,7 @@
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23104435" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23104435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -326,7 +326,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" visible="true" weight="0.37197453" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" visible="true" weight="0.37197453" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.37197453" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -371,9 +371,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/184.ABC/184_Determinant.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/185.ABC/185_A.B.C_Preparation.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -691,6 +688,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.162.TheHeavyofRice.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
