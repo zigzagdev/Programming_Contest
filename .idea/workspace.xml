@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/73.ABC/September.9.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
@@ -14,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/80.ABC/A.Parking.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/79.ABC/A.GoodInteger.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,11 +85,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/73.ABC/September.9.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.106.Reminder.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -120,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Atcorder/code_file_Typescript/174_Air_Conditioner.ts" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/189.Slot.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/189.ABC/189.B.Alcoholic.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/115.ABC/115.A.Christmas.Eve.Eve.Eve.rb" />
@@ -171,6 +169,7 @@
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/76.ABC/A.RatingGoal.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/74.ABC/A.Bichrome_Cells.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/73.ABC/September.9.rb" />
+        <option value="$PROJECT_DIR$/Paiza/Ruby/D.106.Reminder.rb" />
       </list>
     </option>
   </component>
@@ -210,18 +209,6 @@
               <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
               <item name="Atcorder" type="462c0819:PsiDirectoryNode" />
               <item name="code_file_Ruby" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
-              <item name="Atcorder" type="462c0819:PsiDirectoryNode" />
-              <item name="code_file_Ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="73.ABC" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
-              <item name="Paiza" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -304,12 +291,12 @@
       <workItem from="1612323019596" duration="1107000" />
       <workItem from="1612428841633" duration="567000" />
       <workItem from="1612532567514" duration="4739000" />
-      <workItem from="1613228144586" duration="2021000" />
+      <workItem from="1613228144586" duration="2389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55789000" />
+    <option name="totallyTimeSpent" value="56157000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -322,7 +309,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23104435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -382,13 +368,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D169.DiffrenttheDegree.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/119.ABC/119.Still.TBD.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -713,7 +692,14 @@
     <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/73.ABC/September.9.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.106.Reminder.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
