@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/193.ABC/A.Discount.rb" afterDir="false" />
-    </list>
+    <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +94,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/193.ABC/A.Discount.rb">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -115,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Paiza/Ruby/D169.DiffrenttheDegree.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/113.ABC/113.A.DiscountFare.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/112.ABC/A.ProgrammingEducation.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/111.ABC/A.ABC.999.rb" />
@@ -166,6 +167,7 @@
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/72.ABC/A.Sandless2.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/71.ABC/A.Meal.Deliery.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/70.ABC/A.Palindromic.Number.rb" />
+        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/193.ABC/A.Discount.rb" />
       </list>
     </option>
   </component>
@@ -206,13 +208,6 @@
               <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
               <item name="Atcorder" type="462c0819:PsiDirectoryNode" />
               <item name="code_file_Ruby" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
-              <item name="Atcorder" type="462c0819:PsiDirectoryNode" />
-              <item name="code_file_Ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="193.ABC" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -295,12 +290,12 @@
       <workItem from="1612428841633" duration="567000" />
       <workItem from="1612532567514" duration="4739000" />
       <workItem from="1613228144586" duration="3113000" />
-      <workItem from="1614131924517" duration="1194000" />
+      <workItem from="1614131924517" duration="1490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58075000" />
+    <option name="totallyTimeSpent" value="58371000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -315,7 +310,7 @@
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23390558" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23390558" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -328,7 +323,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" visible="true" weight="0.37197453" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" visible="true" weight="0.37197453" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.37197453" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -710,7 +705,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/193.ABC/A.Discount.rb">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
