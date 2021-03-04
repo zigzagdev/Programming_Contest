@@ -7,3 +7,5 @@ if ($n<10){
   echo $r+$result;}
 else{
   echo $r;}
+
+?>

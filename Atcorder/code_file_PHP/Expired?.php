@@ -8,5 +8,5 @@ if ($A >= $B) {
 } else {
     echo 'dangerous';
 }
-
 echo PHP_EOL;
+?>

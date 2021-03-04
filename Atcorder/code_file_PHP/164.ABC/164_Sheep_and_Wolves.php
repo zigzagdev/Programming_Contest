@@ -5,3 +5,5 @@ if ($s>$w)
 {echo "safe";}
 else
 {echo "unsafe";}
+
+?>
