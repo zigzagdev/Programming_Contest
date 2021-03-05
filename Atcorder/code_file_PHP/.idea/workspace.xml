@@ -22,10 +22,6 @@
     <list default="true" id="a54ee4fb-5ef3-4bb7-bc6e-32fb69be7e63" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/156.ABC/156_Beginner.php" beforeDir="false" afterPath="$PROJECT_DIR$/156.ABC/156_Beginner.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/164.ABC/164_Sheep_and_Wolves.php" beforeDir="false" afterPath="$PROJECT_DIR$/164.ABC/164_Sheep_and_Wolves.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/165.ABC/165_We_love_Golf.php" beforeDir="false" afterPath="$PROJECT_DIR$/165.ABC/165_We_love_Golf.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Expired?.php" beforeDir="false" afterPath="$PROJECT_DIR$/Expired?.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614861512967</updated>
-      <workItem from="1614861514850" duration="864000" />
+      <workItem from="1614861514850" duration="1503000" />
     </task>
     <servers />
   </component>
@@ -83,9 +79,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="544" y="394" key="NewPhpFileDialog" timestamp="1614862384372">
+    <state x="544" y="394" key="NewPhpFileDialog" timestamp="1614863392760">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="544" y="394" key="NewPhpFileDialog/0.23.1440.877@0.23.1440.877" timestamp="1614862384372" />
+    <state x="544" y="394" key="NewPhpFileDialog/0.23.1440.877@0.23.1440.877" timestamp="1614863392760" />
   </component>
 </project>
