@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Atcorder/code_file_PHP/161.ABC/A.ABC.Swap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/161.ABC/B.PopularVote.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Atcorder/code_file_PHP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_PHP/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -16,11 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/138.ABC/138.Red.or_Not.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/81.ABC/A.PlacingMarbles.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,13 +65,18 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/161.ABC/B.PopularVote.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/141.ABC/141.Weather.Prediction.rb">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -175,6 +173,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,18 +199,10 @@
               <item name="code_file_Ruby" type="462c0819:PsiDirectoryNode" />
               <item name="122.ABC" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
-              <item name="Atcorder" type="462c0819:PsiDirectoryNode" />
-              <item name="code_file_Ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="161.ABC" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -291,12 +282,13 @@
       <workItem from="1613228144586" duration="3113000" />
       <workItem from="1614131924517" duration="4174000" />
       <workItem from="1615033359889" duration="1477000" />
-      <workItem from="1615114192859" duration="2734000" />
+      <workItem from="1615114192859" duration="2854000" />
+      <workItem from="1615713845001" duration="753000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65266000" />
+    <option name="totallyTimeSpent" value="66139000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,9 +301,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23962805" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24320458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -369,13 +360,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/89.ABC/A.Grouping2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.120.A.Number_of_Pencils.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -660,9 +644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/126.ABC/126.Changing.a.Character.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/127.ABC/127.Ferris.Wheel.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -679,12 +660,18 @@
     <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/161.ABC/161_ABC.Swap.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/126.ABC/126.Changing.a.Character.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/161.ABC/B.PopularVote.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/141.ABC/141.Weather.Prediction.rb">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
