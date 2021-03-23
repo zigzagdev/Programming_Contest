@@ -1,4 +1,4 @@
-word= gets.chomp
+word=
 
 if (word[-1]=='s')
   p word+'es'
