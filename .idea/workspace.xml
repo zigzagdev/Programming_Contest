@@ -4,7 +4,6 @@
     <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Atcorder/code_file_PHP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_PHP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_Ruby/179.ABC/179_Plural_Form.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_Ruby/179.ABC/179_Plural_Form.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/173.ABC/173_Payment.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="12" lean-forward="true" selection-start-column="3" selection-end-column="12" />
+              <caret column="12" selection-start-column="3" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -53,13 +52,27 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/179.ABC/179_Plural_Form.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/168.ABC/B.TripleDots.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/167.ABC/B.Easy Linear Programming.rb">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -67,24 +80,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/186.ABC/B.BlocksonGrid.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/196.ABC/A.DiffrenceMax.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -105,7 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/101.ABC/A.Eating.Symbols.Easy.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/99.ABC/A.ABD.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/98.ABC/A.Add.Sub.Mul.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/96.ABC/A.Day_of.Takahashi.rb" />
@@ -156,6 +150,7 @@
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/186.ABC/B.BlocksonGrid.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/178.ABC/B.ProductMax.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/179.ABC/179_Plural_Form.rb" />
+        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/168.ABC/B.TripleDots.rb" />
       </list>
     </option>
   </component>
@@ -237,6 +232,20 @@
               <item name="Atcorder" type="462c0819:PsiDirectoryNode" />
               <item name="code_file_Ruby" type="462c0819:PsiDirectoryNode" />
               <item name="141.ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
+              <item name="Atcorder" type="462c0819:PsiDirectoryNode" />
+              <item name="code_file_Ruby" type="462c0819:PsiDirectoryNode" />
+              <item name="167.ABC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
+              <item name="Atcorder" type="462c0819:PsiDirectoryNode" />
+              <item name="code_file_Ruby" type="462c0819:PsiDirectoryNode" />
+              <item name="168.ABC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
@@ -332,12 +341,12 @@
       <workItem from="1615114192859" duration="2854000" />
       <workItem from="1615713845001" duration="1524000" />
       <workItem from="1615981510742" duration="448000" />
-      <workItem from="1615983480698" duration="2957000" />
+      <workItem from="1615983480698" duration="3371000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70315000" />
+    <option name="totallyTimeSpent" value="70729000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -410,20 +419,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.162.TheHeavyofRice.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/76.ABC/A.RatingGoal.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/74.ABC/A.Bichrome_Cells.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -678,7 +673,7 @@
     <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/173.ABC/173_Payment.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="12" lean-forward="true" selection-start-column="3" selection-end-column="12" />
+          <caret column="12" selection-start-column="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -691,9 +686,19 @@
     <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/179.ABC/179_Plural_Form.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/168.ABC/B.TripleDots.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcorder/code_file_Ruby/167.ABC/B.Easy Linear Programming.rb">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
