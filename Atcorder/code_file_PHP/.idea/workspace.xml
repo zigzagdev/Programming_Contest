@@ -22,6 +22,7 @@
     <list default="true" id="a54ee4fb-5ef3-4bb7-bc6e-32fb69be7e63" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_file_Ruby/167.ABC/167_Resistration.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../code_file_Ruby/167.ABC/A.Resistration.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +71,7 @@
       <workItem from="1615725521071" duration="1788000" />
       <workItem from="1615983447060" duration="4046000" />
       <workItem from="1616332268284" duration="1613000" />
+      <workItem from="1616763134354" duration="599000" />
     </task>
     <servers />
   </component>
