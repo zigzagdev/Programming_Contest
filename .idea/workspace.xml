@@ -3,19 +3,22 @@
   <component name="ChangeListManager">
     <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_PHP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/code_file_PHP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.032.BatteryCharging.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.032.BatteryCharging.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.102.CalcurateFee.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.102.CalcurateFee.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.106.Reminder.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.106.Reminder.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.112.FactoryProducting.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.112.FactoryProducting.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.120.A.Number_of_Pencils.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.120.A.Number_of_Pencils.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.162.TheHeavyofRice.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.162.TheHeavyofRice.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.170.SchoolYard.Running.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.170.SchoolYard.Running.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.175.DecimalNumber.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.175.DecimalNumber.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D007.N_Array.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D007.N_Array.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D008.EvenorOdd.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D008.EvenorOdd.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D169.DiffrenttheDegree.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D169.DiffrenttheDegree.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D174.Nutrition.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D174.Nutrition.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_PHP/.idea/code_file_PHP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_PHP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_PHP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcorder/code_file_PHP/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.032.BatteryCharging.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/032.BatteryCharging.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.102.CalcurateFee.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/102.CalcurateFee.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.106.Reminder.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/106.Reminder.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.112.FactoryProducting.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/112.FactoryProducting.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.120.A.Number_of_Pencils.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/120.A.Number_of_Pencils.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.162.TheHeavyofRice.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/162.TheHeavyofRice.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.170.SchoolYard.Running.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/170.SchoolYard.Running.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.175.DecimalNumber.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/175.DecimalNumber.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D007.N_Array.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/007.N_Array.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D008.EvenorOdd.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/008.EvenorOdd.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D169.DiffrenttheDegree.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/169.DiffrenttheDegree.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/D174.Nutrition.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Paiza/Ruby/D.quiz/174.Nutrition.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,53 +30,57 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D007.N_Array.rb">
+        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/007.N_Array.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.175.DecimalNumber.rb">
+        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/175.DecimalNumber.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.170.SchoolYard.Running.rb">
+        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/170.SchoolYard.Running.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.162.TheHeavyofRice.rb">
+        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/162.TheHeavyofRice.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.120.A.Number_of_Pencils.rb">
+        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/120.A.Number_of_Pencils.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.112.FactoryProducting.rb">
+        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/112.FactoryProducting.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.106.Reminder.rb">
+        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/106.Reminder.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.102.CalcurateFee.rb">
+        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/102.CalcurateFee.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.032.BatteryCharging.rb">
+        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/032.BatteryCharging.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Paiza/Ruby/C.quiz/16.LeetString.rb">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="105" selection-start-line="2" selection-start-column="105" selection-end-line="2" selection-end-column="105" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -92,7 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/96.ABC/A.Day_of.Takahashi.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/95.ABC/A.Something_on.It.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/94.ABC/A.CatsAndDogs.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/92.ABC/A.TravelingBudget.rb" />
@@ -143,6 +149,7 @@
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/168.ABC/B.TripleDots.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/197.ABC/B.Visibility.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/197.ABC/A.Rotate.rb" />
+        <option value="$PROJECT_DIR$/Paiza/Ruby/C.quiz/16.LeetString.rb" />
       </list>
     </option>
   </component>
@@ -175,6 +182,11 @@
             <path>
               <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
               <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
+              <item name="Atcorder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
               <item name="Paiza" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -188,7 +200,7 @@
               <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
               <item name="Paiza" type="462c0819:PsiDirectoryNode" />
               <item name="Ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="C.quiz" type="462c0819:PsiDirectoryNode" />
+              <item name="D.quiz" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,11 +234,11 @@
       <recent name="https://github.com/Msts-O/todo.git" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Paiza/Ruby/D.quiz" />
       <recent name="$PROJECT_DIR$/Atcorder/code_file_PHP/156.ABC" />
       <recent name="$PROJECT_DIR$/Atcorder/code_file_PHP/164.ABC" />
       <recent name="$PROJECT_DIR$/Atcorder/code_file_PHP/165.ABC" />
       <recent name="$PROJECT_DIR$/Atcorder/code_file_PHP/184.ABC" />
-      <recent name="$PROJECT_DIR$/Atcorder/code_file_Ruby/74.ABC" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -279,12 +291,12 @@
       <workItem from="1615981510742" duration="448000" />
       <workItem from="1615983480698" duration="3371000" />
       <workItem from="1616763161217" duration="810000" />
-      <workItem from="1616838898340" duration="2053000" />
+      <workItem from="1616838898340" duration="2565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73592000" />
+    <option name="totallyTimeSpent" value="74104000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,7 +309,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -563,44 +574,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D174.Nutrition.rb">
+    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/174.Nutrition.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D169.DiffrenttheDegree.rb">
+    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/169.DiffrenttheDegree.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D008.EvenorOdd.rb">
+    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/008.EvenorOdd.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D007.N_Array.rb">
+    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/007.N_Array.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.175.DecimalNumber.rb">
+    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/175.DecimalNumber.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.170.SchoolYard.Running.rb">
+    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/170.SchoolYard.Running.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.162.TheHeavyofRice.rb">
+    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/162.TheHeavyofRice.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.120.A.Number_of_Pencils.rb">
+    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/120.A.Number_of_Pencils.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.112.FactoryProducting.rb">
+    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/112.FactoryProducting.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.106.Reminder.rb">
+    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/106.Reminder.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.102.CalcurateFee.rb">
+    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/102.CalcurateFee.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/D.032.BatteryCharging.rb">
+    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.quiz/032.BatteryCharging.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Paiza/Ruby/C.quiz/16.LeetString.rb">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="105" selection-start-line="2" selection-start-column="105" selection-end-line="2" selection-end-column="105" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

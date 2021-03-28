@@ -19,9 +19,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a54ee4fb-5ef3-4bb7-bc6e-32fb69be7e63" name="Default Changelist" comment="">
+    <list default="true" id="28192c78-456d-4920-9a29-ea1d59faf92e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/code_file_PHP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/D.032.BatteryCharging.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/032.BatteryCharging.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/D.102.CalcurateFee.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/102.CalcurateFee.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/D.106.Reminder.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/106.Reminder.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/D.112.FactoryProducting.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/112.FactoryProducting.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/D.120.A.Number_of_Pencils.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/120.A.Number_of_Pencils.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/D.162.TheHeavyofRice.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/162.TheHeavyofRice.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/D.170.SchoolYard.Running.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/170.SchoolYard.Running.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/D.175.DecimalNumber.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/175.DecimalNumber.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/D007.N_Array.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/007.N_Array.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/D008.EvenorOdd.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/008.EvenorOdd.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/D169.DiffrenttheDegree.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/169.DiffrenttheDegree.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/D174.Nutrition.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Paiza/Ruby/D.quiz/174.Nutrition.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +49,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1pID3XlcXvAmb4OktBUgjlTZrDd" />
+  <component name="ProjectId" id="1qNiIoQ3aLrAzQNNfMFGY2u2Wgd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,36 +58,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.User-Defined File Types" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a54ee4fb-5ef3-4bb7-bc6e-32fb69be7e63" name="Default Changelist" comment="" />
-      <created>1614861512967</created>
+      <changelist id="28192c78-456d-4920-9a29-ea1d59faf92e" name="Default Changelist" comment="" />
+      <created>1616926370662</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614861512967</updated>
-      <workItem from="1614861514850" duration="2123000" />
-      <workItem from="1615034916067" duration="568000" />
-      <workItem from="1615105158294" duration="1256000" />
-      <workItem from="1615114164669" duration="295000" />
-      <workItem from="1615207380556" duration="6225000" />
-      <workItem from="1615713802127" duration="660000" />
-      <workItem from="1615725521071" duration="1788000" />
-      <workItem from="1615983447060" duration="4046000" />
-      <workItem from="1616332268284" duration="1613000" />
-      <workItem from="1616763134354" duration="1400000" />
-      <workItem from="1616836743196" duration="572000" />
-      <workItem from="1616838879661" duration="891000" />
+      <updated>1616926370662</updated>
+      <workItem from="1616926372174" duration="442000" />
     </task>
     <servers />
   </component>
@@ -89,20 +85,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="453" y="182" key="NewPhpClassDialog" timestamp="1615295098896">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="453" y="182" key="NewPhpClassDialog/0.23.1440.877@0.23.1440.877" timestamp="1615295098896" />
-    <state x="544" y="394" key="NewPhpFileDialog" timestamp="1616833986193">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="544" y="394" key="NewPhpFileDialog/0.23.1440.877@0.23.1440.877" timestamp="1616833986193" />
-    <state x="278" y="88" key="SettingsEditor" timestamp="1615725585022">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="278" y="88" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1615725585022" />
   </component>
 </project>
