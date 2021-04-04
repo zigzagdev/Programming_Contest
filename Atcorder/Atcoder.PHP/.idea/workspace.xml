@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28192c78-456d-4920-9a29-ea1d59faf92e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Atcoder.PHP/139.ABC/A.Tenki.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atcoder.PHP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Atcoder.PHP/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -59,7 +62,7 @@
       <updated>1616926370662</updated>
       <workItem from="1616926372174" duration="5981000" />
       <workItem from="1617441972326" duration="13000" />
-      <workItem from="1617442013275" duration="1787000" />
+      <workItem from="1617442013275" duration="2835000" />
     </task>
     <servers />
   </component>
@@ -79,9 +82,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="596" y="379" key="NewPhpFileDialog" timestamp="1617508330752">
+    <state x="596" y="379" key="NewPhpFileDialog" timestamp="1617511774943">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="596" y="379" key="NewPhpFileDialog/0.23.1440.877@0.23.1440.877" timestamp="1617508330752" />
+    <state x="596" y="379" key="NewPhpFileDialog/0.23.1440.877@0.23.1440.877" timestamp="1617511774943" />
+    <state x="278" y="88" key="SettingsEditor" timestamp="1617511809729">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="278" y="88" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1617511809729" />
   </component>
 </project>
