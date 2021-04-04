@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Atcorder/Atcoder.PHP/139.ABC/A.Tenki.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paiza/Ruby/C.quiz/86.HandleName.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Atcorder/Atcoder.PHP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Atcorder/Atcoder.PHP/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -79,7 +77,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Paiza/Ruby/C.quiz/86.HandleName.rb">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -98,7 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/91.ABC/A.TwoCoins.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/90.ABC/A.Diagonal String.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/89.ABC/A.Grouping2.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/88.ABC/A.InfiniteCoins.rb" />
@@ -149,6 +150,7 @@
         <option value="$PROJECT_DIR$/Paiza/Ruby/D.quiz/178.DoReverse.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/137.ABC/B.OneClue.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/136.ABC/B.UnevenNumbers.rb" />
+        <option value="$PROJECT_DIR$/Paiza/Ruby/C.quiz/86.HandleName.rb" />
       </list>
     </option>
   </component>
@@ -177,11 +179,6 @@
             <path>
               <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
               <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Atcorder_Try" type="462c0819:PsiDirectoryNode" />
-              <item name="Atcorder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
@@ -290,12 +287,12 @@
       <workItem from="1615981510742" duration="448000" />
       <workItem from="1615983480698" duration="3371000" />
       <workItem from="1616763161217" duration="810000" />
-      <workItem from="1616838898340" duration="4521000" />
+      <workItem from="1616838898340" duration="5071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76060000" />
+    <option name="totallyTimeSpent" value="76610000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -308,7 +305,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -611,7 +607,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Paiza/Ruby/C.quiz/86.HandleName.rb">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
