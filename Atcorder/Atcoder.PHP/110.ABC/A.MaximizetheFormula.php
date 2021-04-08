@@ -1,5 +1,5 @@
 <?php
-fscanf(STDIN, "%d%d%d", $a,$b,$c);
+
 $array=[$a,$b,$c];
 sort($array);
 
