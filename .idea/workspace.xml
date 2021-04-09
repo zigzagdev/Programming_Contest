@@ -47,11 +47,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/130.ABC/B.Bounding.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/153.ABC/B.CommonRaccoon_vs_Monster.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -72,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/83.ABC/A.Libra.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/82.ABC/A.RoundUpTheMean.rb" />
         <option value="$PROJECT_DIR$/Paiza/Ruby/D.112.FactoryProducting.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/81.ABC/A.PlacingMarbles.rb" />
@@ -123,6 +131,7 @@
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/152.ABC/B.ComparingStrings.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/152.ABC/A.ACorWA.rb" />
         <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/130.ABC/B.Bounding.rb" />
+        <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/153.ABC/B.CommonRaccoon_vs_Monster.rb" />
       </list>
     </option>
   </component>
@@ -161,7 +170,7 @@
               <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
               <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
               <item name="Atcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="Ruby" type="462c0819:PsiDirectoryNode" />
+              <item name="PHP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -252,12 +261,12 @@
       <workItem from="1615981510742" duration="448000" />
       <workItem from="1615983480698" duration="3371000" />
       <workItem from="1616763161217" duration="810000" />
-      <workItem from="1616838898340" duration="10694000" />
+      <workItem from="1616838898340" duration="10944000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82233000" />
+    <option name="totallyTimeSpent" value="82483000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -270,7 +279,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -330,9 +338,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/137.ABC/137.A-+-x.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/196.ABC/A.DiffrenceMax.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -592,6 +597,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/153.ABC/B.CommonRaccoon_vs_Monster.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
