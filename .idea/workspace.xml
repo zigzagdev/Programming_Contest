@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/141.ABC/B.TapDance.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="22" />
+              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/184.ABC/B.Quizzes.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -88,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/161.ABC/B.PopularVote.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -289,12 +289,12 @@
       <workItem from="1615981510742" duration="448000" />
       <workItem from="1615983480698" duration="3371000" />
       <workItem from="1616763161217" duration="810000" />
-      <workItem from="1616838898340" duration="14279000" />
+      <workItem from="1616838898340" duration="14566000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85818000" />
+    <option name="totallyTimeSpent" value="86105000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -602,7 +602,7 @@
     <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/161.ABC/B.PopularVote.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -619,14 +619,14 @@
     <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/141.ABC/B.TapDance.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="22" />
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/184.ABC/B.Quizzes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
         </state>
       </provider>
     </entry>
