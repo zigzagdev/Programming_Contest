@@ -61,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/172.ABC/B.MinorChange.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -70,9 +70,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/72.ABC/A.Sandless2.rb">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/191.ABC/B.RemoveIt.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="34" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -109,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/75.ABC/A.OneoutofThree.rb" />
         <option value="$PROJECT_DIR$/Paiza/Ruby/D.162.TheHeavyofRice.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/76.ABC/A.RatingGoal.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/74.ABC/A.Bichrome_Cells.rb" />
@@ -160,6 +163,7 @@
         <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/181.ABC/B.TrapezoidSum.rb" />
         <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/164.ABC/B.Battle.rb" />
         <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/172.ABC/B.MinorChange.rb" />
+        <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/191.ABC/B.RemoveIt.rb" />
       </list>
     </option>
   </component>
@@ -198,7 +202,7 @@
               <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
               <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
               <item name="Atcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="Ruby" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -289,12 +293,12 @@
       <workItem from="1615981510742" duration="448000" />
       <workItem from="1615983480698" duration="3371000" />
       <workItem from="1616763161217" duration="810000" />
-      <workItem from="1616838898340" duration="14566000" />
+      <workItem from="1616838898340" duration="14916000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86105000" />
+    <option name="totallyTimeSpent" value="86455000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -307,6 +311,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -366,13 +371,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/174.ABC/174_Air_conditioner.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/167.ABC/A.Resistration.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -648,6 +646,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/191.ABC/B.RemoveIt.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="34" />
         </state>
       </provider>
     </entry>
