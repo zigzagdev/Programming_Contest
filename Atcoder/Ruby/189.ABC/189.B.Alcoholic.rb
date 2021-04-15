@@ -1,15 +1,14 @@
-n, x = gets.chomp.split(' ').map(&:to_i)
-x = x * 100
+n,x=gets.split.map(&:to_i)
 
-sum = 0
-ans = -1
 
+sum=0;
 (1..n).each do |i|
-  v, p = gets.chomp.split(' ').map(&:to_i)
-  sum += v * p
-  if sum > x
-    ans = i
-    break
+  v,p=gets.split.map(&:to_i)
+  p *=0.01;
+  sum+= v*p
+  if(sum>x)
+    puts i
+    exit
   end
 end
-puts ans
+puts -1
