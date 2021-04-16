@@ -43,11 +43,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/162.ABC/B.FizzBuzzSum.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/189.ABC/189.B.Alcoholic.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/172.ABC/B.MinorChange.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -95,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Paiza/Ruby/D.106.Reminder.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/192.ABC/A.Star.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/72.ABC/A.Sandless2.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/71.ABC/A.Meal.Deliery.rb" />
@@ -146,6 +163,7 @@
         <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/170.ABC/A.FiveVariables.rb" />
         <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/125.ABC/B.Resale.rb" />
         <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/162.ABC/B.FizzBuzzSum.rb" />
+        <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/189.ABC/189.B.Alcoholic.rb" />
       </list>
     </option>
   </component>
@@ -185,6 +203,13 @@
               <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
               <item name="Atcoder" type="462c0819:PsiDirectoryNode" />
               <item name="Ruby" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
+              <item name="Atcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="Ruby" type="462c0819:PsiDirectoryNode" />
+              <item name="188.ABC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
@@ -286,12 +311,12 @@
       <workItem from="1615981510742" duration="448000" />
       <workItem from="1615983480698" duration="3371000" />
       <workItem from="1616763161217" duration="810000" />
-      <workItem from="1616838898340" duration="17442000" />
+      <workItem from="1616838898340" duration="18313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88981000" />
+    <option name="totallyTimeSpent" value="89852000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -363,9 +388,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Paiza/Ruby/D.Level/169.DiffrenttheDegree.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Paiza/Ruby/D.Level/008.EvenorOdd.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -599,13 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/172.ABC/B.MinorChange.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/191.ABC/B.RemoveIt.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -641,6 +656,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/189.ABC/189.B.Alcoholic.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/172.ABC/B.MinorChange.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
         </state>
       </provider>
     </entry>
