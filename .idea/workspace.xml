@@ -12,29 +12,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/141.ABC/B.TapDance.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/184.ABC/B.Quizzes.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/168.ABC/B.TripleDots.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/125.ABC/B.Resale.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -88,9 +65,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/192.ABC/A.Star.rb">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/187.ABC/A.LargeDigits.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/186.ABC/B.BlocksonGrid.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/141.ABC/B.TapDance.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="22" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -109,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/72.ABC/A.Sandless2.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/71.ABC/A.Meal.Deliery.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/70.ABC/A.Palindromic.Number.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/193.ABC/A.Discount.rb" />
@@ -160,6 +163,7 @@
         <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/162.ABC/B.FizzBuzzSum.rb" />
         <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/189.ABC/189.B.Alcoholic.rb" />
         <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/188.ABC/A.ThreePointShot.rb" />
+        <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/187.ABC/A.LargeDigits.rb" />
       </list>
     </option>
   </component>
@@ -199,6 +203,13 @@
               <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
               <item name="Atcoder" type="462c0819:PsiDirectoryNode" />
               <item name="Ruby" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
+              <item name="Atcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="Ruby" type="462c0819:PsiDirectoryNode" />
+              <item name="141.ABC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
@@ -300,12 +311,12 @@
       <workItem from="1615981510742" duration="448000" />
       <workItem from="1615983480698" duration="3371000" />
       <workItem from="1616763161217" duration="810000" />
-      <workItem from="1616838898340" duration="19196000" />
+      <workItem from="1616838898340" duration="20626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90735000" />
+    <option name="totallyTimeSpent" value="92165000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -318,6 +329,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17453505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -377,12 +389,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Paiza/Ruby/D.Level/175.DecimalNumber.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Paiza/Ruby/D.Level/170.SchoolYard.Running.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Paiza/Ruby/D.Level/162.TheHeavyofRice.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -604,13 +610,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/141.ABC/B.TapDance.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/184.ABC/B.Quizzes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -665,6 +664,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/192.ABC/A.Star.rb">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/187.ABC/A.LargeDigits.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/186.ABC/B.BlocksonGrid.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/141.ABC/B.TapDance.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
