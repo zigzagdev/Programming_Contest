@@ -12,24 +12,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/125.ABC/B.Resale.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/162.ABC/B.FizzBuzzSum.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/189.ABC/189.B.Alcoholic.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -88,11 +70,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/141.ABC/B.TapDance.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="22" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/144.ABC/B.81.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/143.ABC/B.TakoyakiFes2019.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -113,8 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/71.ABC/A.Meal.Deliery.rb" />
-        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/70.ABC/A.Palindromic.Number.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/193.ABC/A.Discount.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/68.ABC/A.ABCxxx.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/67.ABC/A.Sharing Cockies.rb" />
@@ -164,6 +162,8 @@
         <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/189.ABC/189.B.Alcoholic.rb" />
         <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/188.ABC/A.ThreePointShot.rb" />
         <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/187.ABC/A.LargeDigits.rb" />
+        <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/144.ABC/B.81.rb" />
+        <option value="$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/143.ABC/B.TakoyakiFes2019.rb" />
       </list>
     </option>
   </component>
@@ -203,13 +203,6 @@
               <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
               <item name="Atcoder" type="462c0819:PsiDirectoryNode" />
               <item name="Ruby" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
-              <item name="Atcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="Ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="141.ABC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Atcorder_Try" type="b2602c69:ProjectViewProjectNode" />
@@ -311,12 +304,12 @@
       <workItem from="1615981510742" duration="448000" />
       <workItem from="1615983480698" duration="3371000" />
       <workItem from="1616763161217" duration="810000" />
-      <workItem from="1616838898340" duration="20626000" />
+      <workItem from="1616838898340" duration="21183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92165000" />
+    <option name="totallyTimeSpent" value="92722000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -329,7 +322,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17453505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -389,12 +381,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Paiza/Ruby/D.Level/162.TheHeavyofRice.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Paiza/Ruby/D.Level/120.A.Number_of_Pencils.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Paiza/Ruby/D.Level/112.FactoryProducting.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -681,8 +667,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/141.ABC/B.TapDance.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="22" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/144.ABC/B.81.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/143.ABC/B.TakoyakiFes2019.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
         </state>
       </provider>
     </entry>
