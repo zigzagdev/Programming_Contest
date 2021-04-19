@@ -5,7 +5,6 @@ $WA=0;
 $TLE=0;
 $RE=0;
 
-
 for($i =0;$i<$m; $i++){
     $j = trim(fgets(STDIN));
     if($j=="AC"){
