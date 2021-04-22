@@ -34,16 +34,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/153.ABC/B.CommonRaccoon_vs_Monster.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state>
+              <caret selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/96.ABC/B.MaxiumSum.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -303,12 +303,12 @@
       <workItem from="1615981510742" duration="448000" />
       <workItem from="1615983480698" duration="3371000" />
       <workItem from="1616763161217" duration="810000" />
-      <workItem from="1616838898340" duration="24621000" />
+      <workItem from="1616838898340" duration="24925000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96160000" />
+    <option name="totallyTimeSpent" value="96464000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -321,6 +321,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17453505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -668,6 +669,13 @@
     <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/159.ABC/159_The Number of Even Pairs.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/96.ABC/B.MaxiumSum.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/154.ABC/B.I_miss_you......rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -677,15 +685,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/153.ABC/B.CommonRaccoon_vs_Monster.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Programming_Contest_Result/Atcoder/Ruby/96.ABC/B.MaxiumSum.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state>
+          <caret selection-end-column="26" />
         </state>
       </provider>
     </entry>
