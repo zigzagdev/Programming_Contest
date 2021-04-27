@@ -12,11 +12,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/142.ABC/A.142.Odds.of.Oddness.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/184.ABC/B.Quizzes.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -41,11 +36,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/161.ABC/B.PopularVote.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/111.ABC/ABC111.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -111,7 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/196.ABC/RoundDown.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/196.ABC/A.DiffrenceMax.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/186.ABC/B.BlocksonGrid.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/178.ABC/B.ProductMax.rb" />
@@ -162,6 +165,7 @@
         <option value="$PROJECT_DIR$/Atcoder/Ruby/199.ABC/B.Intersection.rb" />
         <option value="$PROJECT_DIR$/Atcoder/Ruby/199.ABC/A.SquareInequality.rb" />
         <option value="$PROJECT_DIR$/Atcoder/Ruby/95.ABC/B.BitterAlchemy.rb" />
+        <option value="$PROJECT_DIR$/Atcoder/Ruby/111.ABC/ABC111.rb" />
       </list>
     </option>
   </component>
@@ -200,13 +204,6 @@
               <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
               <item name="Atcoder" type="462c0819:PsiDirectoryNode" />
               <item name="Ruby" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Programming_Contest_Result" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
-              <item name="Atcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="Ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="161.ABC" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -300,12 +297,12 @@
       <workItem from="1616763161217" duration="810000" />
       <workItem from="1616838898340" duration="25389000" />
       <workItem from="1619067994075" duration="2070000" />
-      <workItem from="1619345332294" duration="2527000" />
+      <workItem from="1619345332294" duration="2775000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101525000" />
+    <option name="totallyTimeSpent" value="101773000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -378,9 +375,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/087.ABC/Buying Sweets.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/152.ABC/B.ComparingStrings.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -686,6 +680,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/111.ABC/ABC111.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
