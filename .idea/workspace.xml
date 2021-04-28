@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Atcoder/Ruby/093.ABC/A.abcofABC.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/Ruby/101.ABC/B.DigitSums.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/Ruby/102.ABC/B.MaximumDiffrence.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,11 +56,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/101.ABC/B.DigitSums.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/102.ABC/B.MaximumDiffrence.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -94,15 +101,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/95.ABC/B.BitterAlchemy.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -119,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/178.ABC/B.ProductMax.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/179.ABC/179_Plural_Form.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/168.ABC/B.TripleDots.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/197.ABC/B.Visibility.rb" />
@@ -170,6 +167,7 @@
         <option value="$PROJECT_DIR$/Atcoder/Ruby/111.ABC/ABC111.rb" />
         <option value="$PROJECT_DIR$/Atcoder/Ruby/093.ABC/A.abcofABC.rb" />
         <option value="$PROJECT_DIR$/Atcoder/Ruby/101.ABC/B.DigitSums.rb" />
+        <option value="$PROJECT_DIR$/Atcoder/Ruby/102.ABC/B.MaximumDiffrence.rb" />
       </list>
     </option>
   </component>
@@ -214,7 +212,7 @@
               <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
               <item name="Atcoder" type="462c0819:PsiDirectoryNode" />
               <item name="Ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="101.ABC" type="462c0819:PsiDirectoryNode" />
+              <item name="102.ABC" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -308,12 +306,12 @@
       <workItem from="1616763161217" duration="810000" />
       <workItem from="1616838898340" duration="25389000" />
       <workItem from="1619067994075" duration="2070000" />
-      <workItem from="1619345332294" duration="3116000" />
+      <workItem from="1619345332294" duration="3447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102114000" />
+    <option name="totallyTimeSpent" value="102445000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -386,13 +384,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.Level/028.N_Digits.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/115.ABC/B.ChristmasEveEve.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -697,7 +688,14 @@
     <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/101.ABC/B.DigitSums.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/102.ABC/B.MaximumDiffrence.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
