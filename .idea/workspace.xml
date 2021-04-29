@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Paiza/Ruby/D.Level/021.TheSameString.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paiza/Ruby/D.Level/038.MatchTimes.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paiza/Ruby/D.Level/180.SoundofWave.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.Level/038.MatchTimes.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -207,20 +202,13 @@
             <path>
               <item name="Programming_Contest_Result" type="b2602c69:ProjectViewProjectNode" />
               <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
-              <item name="Paiza" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Programming_Contest_Result" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
-              <item name="Paiza" type="462c0819:PsiDirectoryNode" />
+              <item name="Atcoder" type="462c0819:PsiDirectoryNode" />
               <item name="Ruby" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Programming_Contest_Result" type="b2602c69:ProjectViewProjectNode" />
               <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
               <item name="Paiza" type="462c0819:PsiDirectoryNode" />
-              <item name="Ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="D.Level" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -314,12 +302,12 @@
       <workItem from="1616763161217" duration="810000" />
       <workItem from="1616838898340" duration="25389000" />
       <workItem from="1619067994075" duration="2070000" />
-      <workItem from="1619345332294" duration="4003000" />
+      <workItem from="1619345332294" duration="4279000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103001000" />
+    <option name="totallyTimeSpent" value="103277000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -332,7 +320,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1788269" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -703,7 +690,7 @@
     <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.Level/038.MatchTimes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
