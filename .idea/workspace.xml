@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="" />
+    <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Atcoder/Ruby/176.ABC/B.Multiple 9.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/Ruby/176.ABC/176_Takoyaki.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcoder/Ruby/176.ABC/A.Takoyaki.rb" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,15 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/161.ABC/B.PopularVote.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/111.ABC/ABC111.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -92,11 +87,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/86.ABC/B.1 21.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/176.ABC/B.Multiple 9.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -117,7 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Paiza/Ruby/D.quiz/178.DoReverse.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/137.ABC/B.OneClue.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/136.ABC/B.UnevenNumbers.rb" />
         <option value="$PROJECT_DIR$/Paiza/Ruby/C.quiz/86.HandleName.rb" />
@@ -168,6 +171,7 @@
         <option value="$PROJECT_DIR$/Paiza/Ruby/D.Level/038.MatchTimes.rb" />
         <option value="$PROJECT_DIR$/Atcoder/Ruby/89.ABC/B.HinaArare.rb" />
         <option value="$PROJECT_DIR$/Atcoder/Ruby/86.ABC/B.1 21.rb" />
+        <option value="$PROJECT_DIR$/Atcoder/Ruby/176.ABC/B.Multiple 9.rb" />
       </list>
     </option>
   </component>
@@ -189,6 +193,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,7 +221,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -305,11 +309,12 @@
       <workItem from="1616838898340" duration="25389000" />
       <workItem from="1619067994075" duration="2070000" />
       <workItem from="1619345332294" duration="6190000" />
+      <workItem from="1619779238618" duration="1101000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105188000" />
+    <option name="totallyTimeSpent" value="106289000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -323,7 +328,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1788269" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18097281" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -336,7 +341,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49713877" visible="true" weight="0.37128714" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49713877" visible="true" weight="0.37128714" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5028612" side_tool="true" weight="0.37128714" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -381,9 +386,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/70.ABC/A.Palindromic.Number.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/71.ABC/A.Meal.Deliery.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -693,6 +695,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/176.ABC/B.Multiple 9.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
