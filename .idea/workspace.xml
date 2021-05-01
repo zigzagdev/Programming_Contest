@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/Ruby/093.ABC/A.abcofABC.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcoder/Ruby/93.ABC/A.abcofABC.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/Ruby/100.ABC/Happy_birthday!.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcoder/Ruby/100.ABC/A.Happy_birthday!.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/Ruby/181.ABC/181_Heavy_Rotation.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Atcoder/Ruby/181.ABC/A.Heavy_Rotation.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/Ruby/198.ABC/B.1%.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Atcorder_Try.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Atcorder_Try.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,42 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/93.ABC/A.abcofABC.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/101.ABC/B.DigitSums.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/102.ABC/B.MaximumDiffrence.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.Level/180.SoundofWave.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.Level/021.TheSameString.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -92,18 +54,38 @@
         <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/176.ABC/B.Multiple 9.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="24" />
+              <caret column="2" selection-start-column="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/181.ABC/B.TrapezoidSum.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/154.ABC/A.Remaining.Balls.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/152.ABC/A.ACorWA.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/152.ABC/B.ComparingStrings.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/198.ABC/B.1%.rb">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -190,38 +172,40 @@
   <component name="ProjectId" id="1mK8fnS4lopChKaWR7uoP5BfKXv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="Programming_Contest_Result" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
+              <item name="Programming_Contest_Result" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Programming_Contest_Result" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
-              <item name="Programming_Contest_Result" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
-              <item name="Atcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="Programming_Contest_Result" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Programming_Contest_Result" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Atcoder" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="Programming_Contest_Result" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
-              <item name="Atcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="Programming_Contest_Result" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Programming_Contest_Result" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Atcoder" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Ruby" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="Programming_Contest_Result" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programming_Contest_Result" type="462c0819:PsiDirectoryNode" />
-              <item name="Paiza" type="462c0819:PsiDirectoryNode" />
+              <item name="Programming_Contest_Result" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Programming_Contest_Result" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Atcoder" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Ruby" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="152.ABC" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -310,12 +294,12 @@
       <workItem from="1616838898340" duration="25389000" />
       <workItem from="1619067994075" duration="2070000" />
       <workItem from="1619345332294" duration="6190000" />
-      <workItem from="1619779238618" duration="1411000" />
+      <workItem from="1619779238618" duration="1990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106599000" />
+    <option name="totallyTimeSpent" value="107178000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -328,6 +312,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18097281" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -387,30 +372,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/71.ABC/A.Meal.Deliery.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/72.ABC/A.Sandless2.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/72.ABC/B.Oddstring.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/160.ABC/B.GoldenCoins.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/163.ABC/163_Circle.Pond.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -695,7 +656,7 @@
     <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/176.ABC/B.Multiple 9.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="24" />
+          <caret column="2" selection-start-column="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -705,6 +666,18 @@
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/154.ABC/A.Remaining.Balls.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/152.ABC/A.ACorWA.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/152.ABC/B.ComparingStrings.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/198.ABC/B.1%.rb">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
