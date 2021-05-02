@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Atcoder/Ruby/198.ABC/B.1%.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Atcorder_Try.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Atcorder_Try.iml" afterDir="false" />
-    </list>
+    <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,15 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.Level/021.TheSameString.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Paiza/Ruby/D.Level/038.MatchTimes.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,9 +71,22 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/165.ABC/B.1%.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/198.ABC/B.1%.rb">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/165.ABC/A.WeLoveGolf.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -104,8 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/137.ABC/B.OneClue.rb" />
-        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/136.ABC/B.UnevenNumbers.rb" />
         <option value="$PROJECT_DIR$/Paiza/Ruby/C.quiz/86.HandleName.rb" />
         <option value="$PROJECT_DIR$/Paiza/Ruby/C.quiz/87.RulesofNumber.rb" />
         <option value="$PROJECT_DIR$/Paiza/Ruby/D.quiz/028.N_Digits.rb" />
@@ -155,6 +154,8 @@
         <option value="$PROJECT_DIR$/Atcoder/Ruby/89.ABC/B.HinaArare.rb" />
         <option value="$PROJECT_DIR$/Atcoder/Ruby/86.ABC/B.1 21.rb" />
         <option value="$PROJECT_DIR$/Atcoder/Ruby/176.ABC/B.Multiple 9.rb" />
+        <option value="$PROJECT_DIR$/Atcoder/Ruby/198.ABC/B.1%.rb" />
+        <option value="$PROJECT_DIR$/Atcoder/Ruby/165.ABC/A.WeLoveGolf.rb" />
       </list>
     </option>
   </component>
@@ -194,13 +195,6 @@
               <item name="Atcoder" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="Ruby" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
-            <path>
-              <item name="Programming_Contest_Result" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Programming_Contest_Result" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Atcoder" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Ruby" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="152.ABC" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -234,11 +228,11 @@
       <recent name="https://github.com/Msts-O/todo.git" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Atcoder/Ruby/165.ABC" />
       <recent name="$PROJECT_DIR$/Paiza/Ruby/D.quiz" />
       <recent name="$PROJECT_DIR$/Atcorder/code_file_PHP/156.ABC" />
       <recent name="$PROJECT_DIR$/Atcorder/code_file_PHP/164.ABC" />
       <recent name="$PROJECT_DIR$/Atcorder/code_file_PHP/165.ABC" />
-      <recent name="$PROJECT_DIR$/Atcorder/code_file_PHP/184.ABC" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -294,12 +288,12 @@
       <workItem from="1616838898340" duration="25389000" />
       <workItem from="1619067994075" duration="2070000" />
       <workItem from="1619345332294" duration="6190000" />
-      <workItem from="1619779238618" duration="1990000" />
+      <workItem from="1619779238618" duration="2122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107178000" />
+    <option name="totallyTimeSpent" value="107310000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -312,7 +306,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18097281" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -372,16 +365,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/163.ABC/163_Circle.Pond.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/174.ABC/B.Distance.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/173.ABC/173_Payment.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -676,8 +659,26 @@
     <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/152.ABC/B.ComparingStrings.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/198.ABC/B.1%.rb">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/165.ABC/165_We_love_Golf.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/165.ABC/B.1%.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/165.ABC/A.WeLoveGolf.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
