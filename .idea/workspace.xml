@@ -12,24 +12,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/165.ABC/A.WeLoveGolf.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/132.ABC/B.OrdinaryNumber.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/201.ABC/B. Do you know the second highest mountain?.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -61,8 +43,27 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Atcoder/PHP/084.ABC/A.NewYear.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Atcoder/PHP/067.ABC/B.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Atcoder/PHP/077.ABC/B.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/141.ABC/B.TapDance.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -71,15 +72,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/201.ABC/A.Tiny Arithmetic Sequence.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -109,7 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/152.ABC/B.ComparingStrings.rb" />
         <option value="$PROJECT_DIR$/Atcorder/code_file_Ruby/152.ABC/A.ACorWA.rb" />
         <option value="$PROJECT_DIR$/Atcoder/Ruby/130.ABC/B.Bounding.rb" />
         <option value="$PROJECT_DIR$/Atcoder/Ruby/153.ABC/B.CommonRaccoon_vs_Monster.rb" />
@@ -160,6 +151,7 @@
         <option value="$PROJECT_DIR$/Atcoder/Ruby/73.ABC/September.9.rb" />
         <option value="$PROJECT_DIR$/Atcoder/Ruby/73.ABC/A.rb" />
         <option value="$PROJECT_DIR$/Atcoder/Ruby/67.ABC/B..rb" />
+        <option value="$PROJECT_DIR$/Atcoder/PHP/067.ABC/B.php" />
       </list>
     </option>
   </component>
@@ -204,7 +196,7 @@
               <item name="~/Programming_Contest_Result" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="Atcoder" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="PHP" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="104.ABC" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="077.ABC" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -301,12 +293,12 @@
       <workItem from="1619345332294" duration="6190000" />
       <workItem from="1619779238618" duration="2122000" />
       <workItem from="1620874336043" duration="688000" />
-      <workItem from="1621061715820" duration="1656000" />
+      <workItem from="1621061715820" duration="2220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109654000" />
+    <option name="totallyTimeSpent" value="110218000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -319,6 +311,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18526466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -378,19 +371,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/168.ABC/A.Therefore.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/154.ABC/B.I_miss_you......rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/159.ABC/A.The Number of Even Pairs.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/117.ABC/B.Polygon.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -681,6 +661,19 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Atcoder/PHP/084.ABC/A.NewYear.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/141.ABC/B.TapDance.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/067.ABC/B.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/077.ABC/B.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
