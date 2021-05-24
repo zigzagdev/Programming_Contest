@@ -1,4 +1,3 @@
-
 def longest_common_prefix(strs)
   return '' if strs.empty?
   min, max = strs.minmax
@@ -6,3 +5,4 @@ def longest_common_prefix(strs)
   min[0...idx]
 
 end
+
