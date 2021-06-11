@@ -13,3 +13,13 @@ if(avicii>0)
 else
   puts number
 end
+
+########################################################
+
+n,x=gets.split.map(&:to_i)
+m = n.times.map { gets.to_i }
+
+hiroyuki=x-m.sum
+abema=m.min
+
+puts n+(hiroyuki)/abema
