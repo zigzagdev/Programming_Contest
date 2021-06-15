@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="" />
+    <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/043.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/Ruby/44.ABC/A.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,36 +16,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcoder/PHP/058.ABC/A.php">
+        <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/44.ABC/A.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="135">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcoder/PHP/066.ABC/A.ringing.php">
+        <entry file="file://$PROJECT_DIR$/Atcoder/PHP/049.ABC/A.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcoder/PHP/076.ABC/A.RatingGoal.php">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Atcoder/PHP/048.ABC/A.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Atcoder/PHP/047.ABC/A.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="34" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Atcoder/PHP/083.ABC/A.Libra.php">
+        <entry file="file://$PROJECT_DIR$/Atcoder/PHP/043.ABC/A.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="39" />
+            <state relative-caret-position="105">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atcoder/PHP/086.ABC/A.Product.php">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -93,10 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Atcoder/Ruby/202.ABC/A.rb" />
-        <option value="$PROJECT_DIR$/Atcoder/PHP/065.ABC/A.php" />
-        <option value="$PROJECT_DIR$/yukicoder/Ruby/1485.rb" />
-        <option value="$PROJECT_DIR$/Atcoder/PHP/Aa.php" />
         <option value="$PROJECT_DIR$/Atcoder/PHP/064.ABC/A.php" />
         <option value="$PROJECT_DIR$/Atcoder/PHP/063.ABC/A.php" />
         <option value="$PROJECT_DIR$/Atcoder/TypeScript/104.Rated.for.Me.ts" />
@@ -140,10 +148,14 @@
         <option value="$PROJECT_DIR$/Atcoder/PHP/088.ABC/B.php" />
         <option value="$PROJECT_DIR$/Atcoder/PHP/125.ABC/B.php" />
         <option value="$PROJECT_DIR$/Atcoder/PHP/048.ABC/A.php" />
-        <option value="$PROJECT_DIR$/Atcoder/PHP/047.ABC/A.php" />
         <option value="$PROJECT_DIR$/Atcoder/PHP/046.ABC/A.php" />
         <option value="$PROJECT_DIR$/Atcoder/PHP/045.ABC/A.php" />
         <option value="$PROJECT_DIR$/Atcoder/PHP/053.ABC/B.php" />
+        <option value="$PROJECT_DIR$/Atcoder/Ruby/205.ABC/B.rb" />
+        <option value="$PROJECT_DIR$/Atcoder/PHP/205.ABC/A.php" />
+        <option value="$PROJECT_DIR$/Atcoder/Ruby/44.ABC/A.rb" />
+        <option value="$PROJECT_DIR$/Atcoder/PHP/047.ABC/A.php" />
+        <option value="$PROJECT_DIR$/Atcoder/PHP/043.ABC/A.php" />
       </list>
     </option>
   </component>
@@ -165,7 +177,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -182,12 +193,20 @@
               <item name="Programming_Contest_Result" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="~/Programming_Contest_Result" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="Atcoder" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Ruby" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="PHP" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Programming_Contest_Result" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Programming_Contest_Result" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Atcoder" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="PHP" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="047.ABC" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -285,12 +304,15 @@
       <workItem from="1622428547911" duration="3137000" />
       <workItem from="1622953796743" duration="141000" />
       <workItem from="1622958303335" duration="9478000" />
-      <workItem from="1623513335161" duration="2211000" />
+      <workItem from="1623513335161" duration="3153000" />
+      <workItem from="1623725677979" duration="551000" />
+      <workItem from="1623728610470" duration="389000" />
+      <workItem from="1623729238352" duration="554000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141043000" />
+    <option name="totallyTimeSpent" value="143479000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -303,8 +325,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="417" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20314735" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21173105" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -317,7 +340,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49713877" visible="true" weight="0.38118812" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49713877" visible="true" weight="0.38029924" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5028612" side_tool="true" weight="0.37128714" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -362,48 +385,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/155.ABC/A.Poor.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/059.ABC/A.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/059.ABC/B.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/049.ABC/A.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/051.ABC/A.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/A.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/63.ABC/A.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -531,13 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/048.ABC/A.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atcoder/PHP/118.ABC/A.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -549,13 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/047.ABC/A.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -617,6 +584,30 @@
     <entry file="file://$PROJECT_DIR$/Atcoder/PHP/086.ABC/A.Product.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/083.ABC/A.Libra.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/205.ABC/B.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/205.ABC/A.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/92.ABC/B.Chocolate.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Atcoder/PHP/086.ABC/B.1 21.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -640,10 +631,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/083.ABC/A.Libra.php">
+    <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/44.ABC/A.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/049.ABC/A.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/048.ABC/A.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/047.ABC/A.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="39" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atcoder/PHP/043.ABC/A.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
