@@ -5,4 +5,4 @@ fscanf(STDIN, "%d", $c);
 fscanf(STDIN, "%d", $d);
 
 echo min($a,$b) + min($c,$d)
-?>
+
