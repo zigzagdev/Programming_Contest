@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Atcoder/Ruby/59.ABC/A.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/Ruby/59.ABC/B.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
@@ -76,7 +74,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/59.ABC/A.rb">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -121,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Atcoder/Ruby/40.ABC/A.rb" />
         <option value="$PROJECT_DIR$/Atcoder/PHP/164.ABC/B.php" />
         <option value="$PROJECT_DIR$/Atcoder/PHP/164.ABC/A.php" />
         <option value="$PROJECT_DIR$/Atcoder/PHP/039.ABC/A.php" />
@@ -172,6 +173,7 @@
         <option value="$PROJECT_DIR$/Atcoder/PHP/058.ABC/B.php" />
         <option value="$PROJECT_DIR$/Atcoder/Ruby/58.ABC/B.rb" />
         <option value="$PROJECT_DIR$/Atcoder/Ruby/59.ABC/B.rb" />
+        <option value="$PROJECT_DIR$/Atcoder/Ruby/59.ABC/A.rb" />
       </list>
     </option>
   </component>
@@ -323,12 +325,12 @@
       <workItem from="1623938010176" duration="10608000" />
       <workItem from="1624776670572" duration="6056000" />
       <workItem from="1625212603678" duration="11000" />
-      <workItem from="1625212634613" duration="7982000" />
+      <workItem from="1625212634613" duration="8417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172266000" />
+    <option name="totallyTimeSpent" value="172701000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -341,7 +343,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="119" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22889842" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -692,7 +693,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Atcoder/Ruby/59.ABC/A.rb">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
