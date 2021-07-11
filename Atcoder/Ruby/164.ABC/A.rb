@@ -5,3 +5,4 @@ if S>W
 else
   puts "unsafe"
 end
+
