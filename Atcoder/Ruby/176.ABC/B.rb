@@ -6,3 +6,4 @@ if(n.sum%9==0)
 else
   puts "No"
 end
+
