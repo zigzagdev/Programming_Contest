@@ -1,5 +1,5 @@
 <?php
-fscanf(STDIN,"%d",$moriyama);
+
 
 $kes = str_split($moriyama,1);
 $fuji = intval($kes[0]);
