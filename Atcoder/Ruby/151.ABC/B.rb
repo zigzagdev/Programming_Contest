@@ -9,3 +9,4 @@ elsif(n*m-a<0)
 else  (n*m-a)
 puts (n*m-a)
 end
+

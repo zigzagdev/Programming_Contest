@@ -1,16 +1,9 @@
 <?php
-$a = trim(fgets(STDIN));
+ fscanf(STDIN,"%d",$kes);
+ fscanf(STDIN,"%d",$fuji);
+ fscanf(STDIN,"%d",$evis);
+ fscanf(STDIN,"%d",$jap);
 
-$klose = (str_split($a));
-sort($klose);
-
-$avicii = array_count_values($klose);
-
-$ans = "Yes";
-foreach($avicii as $val){
-  if ($val % 2 !== 0){
-    	$ans="No";
-      	break;
-  }
-}
-echo $ans;
+if ($kes>$fuji){
+ echo $fuji*$evis+($kes-$fuji)*$jap;} else{
+  echo $kes*$evis;}
