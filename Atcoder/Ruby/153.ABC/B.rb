@@ -6,3 +6,4 @@ if(a_arr>=h)
 else
   puts "No"
 end
+

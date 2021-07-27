@@ -5,3 +5,4 @@ if a%b==0
 else
   puts (a/b+1)
 end
+
