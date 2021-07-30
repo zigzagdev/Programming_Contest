@@ -5,3 +5,4 @@ n.times do
 end
 x=a.min
 puts (a.sum - x*a.size)
+

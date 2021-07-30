@@ -5,3 +5,4 @@ if n === n.reverse
 else
   puts "No"
 end
+
