@@ -1,3 +1,4 @@
+
 <?php
 list($s, $t) = explode(" ", trim(fgets(STDIN)));
 fscanf(STDIN, "%d%d", $x,$y);
