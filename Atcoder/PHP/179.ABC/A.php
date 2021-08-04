@@ -1,3 +1,4 @@
+
 <?php
 $a = trim(fgets(STDIN));
 if($a[-1]==s){
