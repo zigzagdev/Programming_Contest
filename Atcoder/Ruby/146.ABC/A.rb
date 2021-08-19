@@ -9,3 +9,4 @@ day={ 'SUN'=>7,
 
 
 puts (day[S])
+
