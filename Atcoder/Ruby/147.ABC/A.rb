@@ -5,3 +5,4 @@ if a+b+c>=22
 else
   puts "win"
 end
+
