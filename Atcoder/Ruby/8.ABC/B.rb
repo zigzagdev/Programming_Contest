@@ -1,0 +1,11 @@
+kes = gets.to_i
+
+mori = []
+kes.times do
+  mori.push(gets.chomp)
+end
+
+yama = mori.group_by(&:itself).transform_values(&:size)
+moriyama = yama.sort_by { |_, v| v }.reverse.to_h
+
+puts moriyama.keys[0]
