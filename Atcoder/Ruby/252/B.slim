@@ -1,0 +1,8 @@
+mori, yama = gets.split(" ").map &:to_i
+fuji = gets.split.map(&:to_i)
+taku = gets.split.map(&:to_i)
+
+kes = fuji.max
+evisjap = taku.any?{ |tanaka| fuji[tanaka-1] == kes }
+
+puts evisjap ? 'Yes' : 'No'
