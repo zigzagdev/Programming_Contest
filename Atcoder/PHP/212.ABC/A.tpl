@@ -1,8 +1,7 @@
-
 <?php
-fscanf(STDIN, "%d%d", $evis,$jap);
+fscanf(STDIN, "%d%d", $mori, $yama);
 
-if($evis >= 0 && $jap == 0){
-  echo "Gold";} elseif($evis == 0 && $jap >= 0){
-  echo "Silver";} else {
-  echo "Alloy";}
+if(0<$mori&&$yama == 0){
+  echo 'Gold';}elseif(0<$yama&&$mori == 0){
+  echo 'Silver';}else{
+  echo 'Alloy';}
