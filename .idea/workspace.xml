@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/117.ABC/B.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/Atcoder/PHP/117.ABC/B.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +94,9 @@
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="25" />
@@ -242,7 +245,7 @@
       <workItem from="1655619233235" duration="3988000" />
       <workItem from="1657089069750" duration="20081000" />
       <workItem from="1659431208842" duration="12000" />
-      <workItem from="1662994130954" duration="516000" />
+      <workItem from="1662994130954" duration="1254000" />
     </task>
     <servers />
   </component>
