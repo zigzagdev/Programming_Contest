@@ -8,3 +8,5 @@ $avicii=array_pop($b);
 if(array_sum($b)>$avicii){
   echo "Yes";}else{
   echo "No";}
+
+
