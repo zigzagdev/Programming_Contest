@@ -9,4 +9,3 @@ if(array_sum($b)>$avicii){
   echo "Yes";}else{
   echo "No";}
 
-
