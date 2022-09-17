@@ -11,4 +11,3 @@ if($kes == 'A'){
   echo PHP_EOL;}else{
   echo 5;
   echo PHP_EOL;}
-
