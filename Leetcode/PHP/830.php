@@ -1,15 +1,16 @@
 <?php
-function largeGroupPositions($s) {
+function largeGroupPositions($s)
+{
     $count = strlen($s);
     $evisjap = [];
     $sta;
     $end;
-    for($i=0;$i<$count;$i++){
-        if($s[$i] == $s[$i+1] && $s[$i] == $s[$i+2]){
+    for ($i = 0; $i < $count; $i++) {
+        if ($s[$i] == $s[$i + 1] && $s[$i] == $s[$i + 2]) {
             $sta = $i;
-            for($j=$i;$j<=1000;$j++){
-                if($s[$i] != $s[$j]){
-                    $end = $j - 1 ;
+            for ($j = $i; $j <= 1000; $j++) {
+                if ($s[$i] != $s[$j]) {
+                    $end = $j - 1;
                     array_push($evisjap, [$sta, $end]);
                     break;
                 }
