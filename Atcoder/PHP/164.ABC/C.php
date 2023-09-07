@@ -1,7 +1,7 @@
 <?php
-fscanf(STDIN,"%d",$moriyama);
+fscanf(STDIN, "%d", $moriyama);
 $kes = [];
-for ($i=1; $i<=$moriyama; $i++) {
+for ($i = 1; $i <= $moriyama; $i++) {
     array_push($kes, trim(fgets(STDIN)));
 }
 
