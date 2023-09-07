@@ -5,70 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/168.ABC/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/168.ABC/B.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/170.ABC/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/171.ABC/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/171.ABC/B.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/176.ABC/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/176.ABC/B.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/176.ABC/C.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/178.ABC/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/178.ABC/B.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/180.ABC/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/180.ABC/B.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/180.ABC/C.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/181.ABC/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/182.ABC/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/183.ABC/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/184.ABC/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/184.ABC/B.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/186.ABC/C.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/187.ABC/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/188.ABC/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/188.ABC/B.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/189.ABC/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/190.ABC/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/190.ABC/B.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/196.ABC/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/196.ABC/B.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/PHP/136.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/PHP/283.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/PHP/66.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/PHP/9.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paiza/PHP/C/020.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/053.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/053.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/056.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/068.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/068.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/072.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/077.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/077.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/078.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/079.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/079.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/080.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/080.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/120.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/121.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/121.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/123.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/125.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/125.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/126.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/126.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/127.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/127.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/128.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/129.ABC/A.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/168.ABC/A.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/168.ABC/B.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/170.ABC/A.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/171.ABC/A.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/171.ABC/B.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/176.ABC/A.Takoyaki.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/176.ABC/B.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/176.ABC/C.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/178.ABC/A.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/178.ABC/B.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/180.ABC/A.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/180.ABC/B.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/180.ABC/C.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/181.ABC/A.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/182.ABC/A.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/183.ABC/A.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/184.ABC/A.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/184.ABC/B.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/186.ABC/C.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/187.ABC/A.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/188.ABC/A.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/188.ABC/B.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/189.ABC/A.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/190.ABC/A.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/190.ABC/B.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/196.ABC/A.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/196.ABC/B.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/PHP/136.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/PHP/283.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/PHP/66.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/PHP/9.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/053.ABC/A.phtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/053.ABC/B.phtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/056.ABC/A.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/068.ABC/A.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/068.ABC/B.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/072.ABC/A.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/077.ABC/A.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/077.ABC/B.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/078.ABC/B.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/079.ABC/A.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/079.ABC/B.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/080.ABC/A.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/080.ABC/B.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/120.ABC/A.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/121.ABC/A.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/121.ABC/B.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/123.ABC/A.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/125.ABC/A.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/125.ABC/B.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/126.ABC/A.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/126.ABC/B.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/127.ABC/A.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/127.ABC/B.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/128.ABC/A.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/129.ABC/A.tpl" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -322,7 +309,7 @@
       <workItem from="1663577286847" duration="5634000" />
       <workItem from="1666272319017" duration="1528000" />
       <workItem from="1691999263086" duration="1925000" />
-      <workItem from="1694101968084" duration="723000" />
+      <workItem from="1694101968084" duration="1490000" />
     </task>
     <servers />
   </component>
