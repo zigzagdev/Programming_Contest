@@ -4,7 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="" />
+    <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/182.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/183.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/184.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/184.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/186.ABC/C.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/187.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/188.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/188.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/189.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/190.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/190.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/196.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/196.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/PHP/136.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/PHP/283.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/PHP/66.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/PHP/9.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paiza/PHP/C/020.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/182.ABC/A.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/183.ABC/A.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/184.ABC/A.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/184.ABC/B.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/186.ABC/C.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/187.ABC/A.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/188.ABC/A.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/188.ABC/B.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/189.ABC/A.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/190.ABC/A.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/190.ABC/B.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/196.ABC/A.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/196.ABC/B.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/PHP/136.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/PHP/283.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/PHP/66.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/PHP/9.blade.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,22 +177,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/masa/Programming_Contest",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ruby.rails.projectView.checked": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/masa/Programming_Contest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/Msts-O/Practice.git" />
@@ -256,7 +293,8 @@
       <workItem from="1663497435997" duration="599000" />
       <workItem from="1663577286847" duration="5634000" />
       <workItem from="1666272319017" duration="1528000" />
-      <workItem from="1691999263086" duration="1161000" />
+      <workItem from="1691999263086" duration="1925000" />
+      <workItem from="1694101968084" duration="392000" />
     </task>
     <servers />
   </component>

@@ -1,12 +1,13 @@
-
 <?php
-fscanf(STDIN, "%d%d", $a,$b);
+fscanf(STDIN, "%d%d", $a, $b);
 $c = trim(fgets(STDIN));
 
-for($i =0; $i< $a; $i++) {
-    if($c[$i]=="o") {
-        $b+= 1;} elseif($c[$i] == "x" && $b != 0){
-        $b+= -1;}
+for ($i = 0; $i < $a; $i++) {
+    if ($c[$i] == "o") {
+        $b += 1;
+    } elseif ($c[$i] == "x" && $b != 0) {
+        $b += -1;
+    }
 }
 echo $b;
 ?>
