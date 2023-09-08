@@ -1,8 +1,6 @@
 <?php
 fscanf(STDIN, "%d", $a);
 
-echo $a*$a ;
+echo $a * $a;
 
 ?>
-
-
