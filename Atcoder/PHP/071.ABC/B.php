@@ -7,7 +7,8 @@ $evija = range('a', 'z');
 $evisjap = array_diff($evija, $jap);
 
 
-
-if($evisjap == []){
-  echo "None";} else {
-  echo current($evisjap); }
+if ($evisjap == []) {
+    echo "None";
+} else {
+    echo current($evisjap);
+}
