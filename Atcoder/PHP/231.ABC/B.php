@@ -1,7 +1,7 @@
 <?php
 fscanf(STDIN, "%d", $fuji);
 $kes = [];
-for ($i=0; $i<=$fuji; $i++) {
+for ($i = 0; $i <= $fuji; $i++) {
     array_push($kes, trim(fgets(STDIN)));
 }
 

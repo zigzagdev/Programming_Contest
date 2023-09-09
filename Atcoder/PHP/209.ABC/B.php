@@ -1,11 +1,18 @@
 <?php
-fscanf(STDIN, "%d", $moriyama);
-$kes =explode(" ",trim(fgets(STDIN)));
+fscanf(STDIN, "%d%d", $mori, $yama);
+$moriyama = explode(" ", trim(fgets(STDIN)));
 
-sort($kes);
-$evisjap = 1;
-$taku = 1000000007;
-for($i=0;$i<$moriyama;$i++){
-  $evisjap = ($evisjap*($kes[$i]-$i))%$taku;
+$evisjap = 0;
+$fuji = [];
+foreach ($moriyama as $taku => $evis) {
+    if ($taku % 2 != 0) {
+        array_push($fuji, $evis - 1);
+    } else {
+        $evisjap += $evis;
+    }
 }
-echo $evisjap;
+if ($evisjap + array_sum($fuji) <= $yama) {
+    echo "Yes";
+} else {
+    echo "No";
+}
