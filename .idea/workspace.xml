@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/204.ABC/B.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/205.ABC/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/205.ABC/B.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/205.ABC/C.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/206.ABC/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/206.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/218.ABC/B.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/204.ABC/A.php" beforeDir="false" afterPath="$PROJECT_DIR$/Atcoder/PHP/204.ABC/A.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/204.ABC/B.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/205.ABC/A.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/205.ABC/B.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/205.ABC/C.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/206.ABC/A.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/206.ABC/B.blade.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,7 +261,10 @@
       <workItem from="1666272319017" duration="1528000" />
       <workItem from="1691999263086" duration="1925000" />
       <workItem from="1694101968084" duration="3576000" />
-      <workItem from="1694171681929" duration="14208000" />
+      <workItem from="1694171681929" duration="17359000" />
+      <workItem from="1695099781639" duration="11998000" />
+      <workItem from="1700054799091" duration="4228000" />
+      <workItem from="1701593392828" duration="35000" />
     </task>
     <servers />
   </component>
