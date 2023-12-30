@@ -4,7 +4,7 @@ fscanf(STDIN, '%s', $str);
 
 $t = str_repeat('oxx', 10 ** 5);
 
-$result = str_contains($t, $str);
+$result = strpos($t, $str);
 if ($result === true) {
     echo "Yes";
 } else {
