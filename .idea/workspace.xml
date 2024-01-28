@@ -5,7 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b482ef8b-d156-4246-93cc-13ff7ae48e40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/024.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/026.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/031.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/031.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/032.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/034.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/034.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/035.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/059.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/060.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/060.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/061.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/063.ABC/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/063.ABC/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atcoder/PHP/064.ABC/A.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/016.ABC/A.php" beforeDir="false" afterPath="$PROJECT_DIR$/Atcoder/PHP/016.ABC/A.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/024.ABC/A.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/026.ABC/A.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/031.ABC/A.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/032.ABC/A.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/034.ABC/A.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/034.ABC/B.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/035.ABC/A.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/059.ABC/A.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/060.ABC/A.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/060.ABC/B.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/061.ABC/A.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/063.ABC/A.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/063.ABC/B.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atcoder/PHP/064.ABC/A.tpl" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -269,7 +299,7 @@
       <workItem from="1705338006333" duration="598000" />
       <workItem from="1705456500255" duration="2810000" />
       <workItem from="1705738016384" duration="1972000" />
-      <workItem from="1705759647923" duration="8581000" />
+      <workItem from="1705759647923" duration="9933000" />
     </task>
     <servers />
   </component>
